@@ -1,3 +1,3 @@
 difficulty=medium
-language=turkish
+language=english
 timerDuration=20 seconds

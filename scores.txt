@@ -21,3 +21,4 @@
 2024-12-24,medium,turkish,20 seconds,14,0,81,1
 2024-12-24,medium,turkish,20 seconds,14,0,74,4
 2025-02-18,hard,turkish,20 seconds,10,0,85,2
+2025-02-18,medium,english,20 seconds,0,0,4,1
